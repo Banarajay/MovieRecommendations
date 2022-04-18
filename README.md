@@ -15,3 +15,7 @@ In this project we are using the content based approach to recommend the movies 
 ## Demo
 
 
+
+https://user-images.githubusercontent.com/67147642/163844672-72b848b1-c2b4-41df-9e25-87c0cd6e5296.mp4
+
+
